@@ -15,7 +15,7 @@ Publication
 ======
 Published (* denotes equal contribution)
 
-● T. Li*, Z. Xu*, Y. S. Chu, X. Huang, and J. Li, “Coordinate-based Neural Network for Fourier Phase Retrieval”,
+● T. Li *, Z. Xu *, Y. S. Chu, X. Huang, and J. Li, “Coordinate-based Neural Network for Fourier Phase Retrieval”,
 IEEE International Conference on Acoustics, Speech and Signal Processing 2024, https://arxiv.org/abs/2311.14925.
 
 ● C. Sakal, T. Li, J. Li, and X. Li, “Associations Between Sleep Efficiency Variability and Cognition Among Older
