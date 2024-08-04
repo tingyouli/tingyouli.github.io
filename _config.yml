@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Tingyou LI"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Tingyou Li"
+  name             : "Tingyou LI"
   pronouns         : # example: "she/her"  
   bio              : "EE PhD Student"
   location         : "Hong Kong"
@@ -33,11 +33,6 @@ author:
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=9WtzEKoAAAAJ&hl=en"
-  impactstory      : # URL
-  orcid            : "0009-0000-2108-7561"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
