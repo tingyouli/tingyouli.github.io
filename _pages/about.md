@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Year 1 PhD student in Electronic Engineering in The Chinese University of Hong Kong( CUHK ) . Prior to this, I received bachelor's degree( Rank top 5% ) in BSc Data Science from City University of Hong Kong( CityU ) . During undergraduate study, I was fortunate to work as reasearch assistants for [ Prof. LI Jizhou ]( http://jizhou.li ) ( Now PhD supervisor ) and [ Prof. LI Xinyue ]( https://www.xli-lab.com/ ) ( CityU ) . With Prof. LI Jizhou, my reasearch still mainly focuses on Fourier phase retrieval with deep learning and other topics related to AI for Science. With Prof. LI Xinyue, I used to focus on using statiscal models to help predict various diseases among elders.
+I am currently a Year 1 PhD student in Electronic Engineering in The Chinese University of Hong Kong (CUHK) . Prior to this, I received bachelor's degree (Rank top 5%) in BSc Data Science from City University of Hong Kong (CityU) . During undergraduate study, I was fortunate to work as reasearch assistants for [ Prof. LI Jizhou ]( http://jizhou.li ) (Now PhD supervisor) and [ Prof. LI Xinyue ]( https://www.xli-lab.com/ ) (CityU) . With Prof. LI Jizhou, my reasearch still mainly focuses on Fourier phase retrieval with deep learning and other topics related to AI for Science. With Prof. LI Xinyue, I used to focus on using statiscal models to help predict various diseases among elders.
 
 
 
