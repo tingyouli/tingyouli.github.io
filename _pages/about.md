@@ -19,10 +19,10 @@ Published (* denotes equal contribution)
 IEEE International Conference on Acoustics, Speech and Signal Processing 2024, doi: 10.1109/ICASSP48485.2024.10447474.
 
 ● C. Sakal, **T. Li**, J. Li, and X. Li, “Associations Between Sleep Efficiency Variability and Cognition Among Older
-Adults: Cross-Sectional Accelerometer Study”, JMIR Aging (Q1 in Gerontology), doi: 10.2196/54353. 2024.
+Adults: Cross-Sectional Accelerometer Study”, JMIR Aging, 7:e54353, 2024, doi: 10.2196/54353. (JCR Q1 in Gerontology)
 
-● C. Sakal, **T. Li**, J. Li, and X. Li. “Identifying the most predictive risk factors for future cognitive impairment among
-elderly Chinese”, JMIR Aging (Q1 in Gerontology), doi: 10.2196/53240. 2024.
+● C. Sakal, **T. Li**, J. Li, and X. Li, “Identifying the most predictive risk factors for future cognitive impairment among
+elderly Chinese”, JMIR Aging, 7:e53240, 2024, doi: 10.2196/53240. (JCR Q1 in Gerontology)
 
 Under Review
 
